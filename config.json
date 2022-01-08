@@ -1,6 +1,6 @@
 {
-	"ip":"Potato_SMP_NET.aternos.me",
-	"port": "37150",
-	"name": "NRBot",
+	"ip":"Plugins_test.aternos.me",
+	"port": "55430",
+	"name": "testbot",
 	"auto-night-skip":"false"
 }        
